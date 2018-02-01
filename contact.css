@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	margin: 0;
+}
+body{
+	margin: 10px;
+}
+.left{
+	width: 400px;
+	display: inline-block;
+	
+}
+.name{
+	margin: 20px;
+}
+.lname{
+	margin: 20px;
+}
+.label_descr{
+	display: block;
+	margin-top: 10px;
+}
+.descr{
+	display: block;
+	margin-top: 10px;
+	width: 200px;
+	height: 100px;
+
+
+}
+.sub{
+	margin-top: 20px;
+	
+}
+
+.right{
+	width: 500px;
+	
+	display: inline-block;
+	
+	vertical-align: top;
+	margin: 0 auto;
+}
+.stuff{
+	margin: 0 auto;
+	width: 200px;
+
+}
+.info{
+	
+	border-style: solid;
+	margin-bottom: 5px;
+}
